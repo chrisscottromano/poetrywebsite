@@ -24,6 +24,10 @@
   height: 120vh;
 }
 
+#five {
+  height: 190vh;
+}
+
 :root {
   --2: lightgreen;
   --1: black;
@@ -105,9 +109,10 @@ a:hover {
 
 h1 {
   font-family: "Crimson Pro", serif;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: 100;
   margin: 0;
+  margin-bottom: 5px;
 }
 
 h2 {
